@@ -1,4 +1,4 @@
-# Team 17 (10 Bits) | CS253 @ IIT Kanpur
+# Team 17 (10 Bit) | CS253 @ IIT Kanpur
 
 <div align="center">
   <table>
@@ -11,16 +11,16 @@
 
 ---
 
-### 📦 Repositories
-- [📱 Frontend (Flutter)](https://github.com/CS253/frontend)
-- [⚙️ Backend (Node.js/PostgreSQL)](https://github.com/CS253/Backend)
+### Repositories
+- [Frontend (Flutter)](https://github.com/CS253/frontend)
+- [Backend (Node.js/PostgreSQL)](https://github.com/CS253/Backend)
 
-### 🌐 About the Project
+### About the Project
 **Travelly** is a group trip expense manager and itinerary planner developed as a course project for **CS253: Software Development and Operations** at **IIT Kanpur**. The application focuses on simplifying group travel through automated expense splitting, smart debt settlements, and optimized route planning.
 
 ---
 
-### 👥 Team Members
+### Team Members
 | Name | GitHub |
 | :--- | :--- |
 | **Tanmay Roy** | [@24kTanmay](https://github.com/24kTanmay) |
@@ -36,5 +36,5 @@
 
 ---
 <div align="center">
-  <sub>CS253 Course Project @ IIT Kanpur</sub>
+  <sub>CS253 Course Project @ IIT Kanpur (Semester 2 - 2025-26) </sub>
 </div>
