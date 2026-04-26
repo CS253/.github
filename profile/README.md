@@ -14,9 +14,10 @@
 ### Repositories
 - [Frontend (Flutter)](https://github.com/CS253/frontend)
 - [Backend (Node.js/PostgreSQL)](https://github.com/CS253/Backend)
+- [Documents](https://github.com/CS253/Documents)
 
 ### About the Project
-**Travelly** is a group trip expense manager and itinerary planner developed as a course project for **CS253: Software Development and Operations** at **IIT Kanpur**. The application focuses on simplifying group travel through automated expense splitting, smart debt settlements, and optimized route planning.
+**Travelly** is a group trip expense manager and itinerary planner developed as a course project for **CS253: Software Development and Operations** at **IIT Kanpur**, under the guidance of **Prof. Indranil Saha**. The application focuses on simplifying group travel through automated expense splitting, smart debt settlements, and optimized route planning.
 
 ---
 
